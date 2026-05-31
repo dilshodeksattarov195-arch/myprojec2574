@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvecrypt",
+        "uuid": 2471040,
+        "checksum": "s9mk5x"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
